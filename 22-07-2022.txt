@@ -1,0 +1,12 @@
+=>Ecma International (formally 
+European Computer Manufacturers Association) is a non-profit
+organization that develops standards 
+in computer hardware, communications, 
+and programming languages.
+
+=> Getting started with DOM.
+=> 
+
+
+https://riptutorial.com/dom
+https://www.techtarget.com/searchnetworking/definition/CDN-content-delivery-network
